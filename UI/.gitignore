@@ -1,0 +1,8 @@
+# .gitignore
+
+# Исключаем папку node_modules
+node_modules/
+
+# Исключаем содержимое файлов package-lock.json и yarn.lock
+package-lock.json
+yarn.lock

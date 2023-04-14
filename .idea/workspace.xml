@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f8673bc-6757-4152-957e-930924ffc2dc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/chess-ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/chess-ui/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chess-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/chess-ui/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chess-ui/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/chess-ui/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chess-ui/src/ChessBoard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/chess-ui/src/ChessBoard.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chess-ui/src/ChessCell.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/chess-ui/src/ChessCell.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chess-ui/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/chess-ui/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/UI/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chess-ui" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/chess-ui" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -64,7 +61,7 @@
       <updated>1681328043460</updated>
       <workItem from="1681328044749" duration="13026000" />
       <workItem from="1681375324613" duration="34113000" />
-      <workItem from="1681460084429" duration="24528000" />
+      <workItem from="1681460084429" duration="25613000" />
     </task>
     <servers />
   </component>
