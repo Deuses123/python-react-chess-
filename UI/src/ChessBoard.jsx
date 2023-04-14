@@ -18,12 +18,14 @@ const ChessBoard = ({socket, color}) => {
     const [moveStatus, setMoveStatus] = useState('Empty')
     const [preMove, setPreMove] = useState({row: null, col:null});
     const [currentMove, setCurrentMove] = useState({row: null, col: null});
-    const [previousPiecesData, setPreviousPiecesData] = useState(null);
     const [checkMove, setCheckMove] = useState('white');
 
     useEffect(() => {
         socket.addEventListener('message', (event) => {
             const message = event.data.split(':');
+            if (message[0] === 'checkmate'){
+                alert(`Checkmate: ${message[1]} win`)
+            }
             if (message[0] === 'move') {
                 const kingCheck = message[3]
                 console.log(kingCheck)
